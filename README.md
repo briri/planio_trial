@@ -7,6 +7,8 @@ Trying to get these changes to display in Planio!
 
 blah blah blah
 
+Fixing my favorite issue.
+
 ## Hello World!
 
 A sample git repo 
