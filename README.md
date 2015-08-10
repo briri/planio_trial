@@ -12,3 +12,6 @@ Fixing my favorite issue.
 ## Hello World!
 
 A sample git repo 
+
+*A message on the Git tag does not update Planio :/*
+
